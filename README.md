@@ -51,3 +51,4 @@ git clone https://github.com/billryan/resume.git --branch master --depth 1 --sin
 [The MIT License (MIT)](http://opensource.org/licenses/MIT)
 
 Copyrighted fonts are not subjected to this License.
+do alter
